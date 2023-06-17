@@ -2,6 +2,7 @@
 import './App.css';
 import React from 'react';
 import image from "./img/image.jpg"
+import Life from './Life';
 class App extends  React.Component{
   state ={
     fullName:"Mouna", bio: "", imagsrc:image, show:false};
